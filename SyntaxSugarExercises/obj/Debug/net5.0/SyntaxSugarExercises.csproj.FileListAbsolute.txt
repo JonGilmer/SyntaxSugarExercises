@@ -1,0 +1,15 @@
+/Users/JonathanGilmer/Desktop/Repos/SyntaxSugarExercises/SyntaxSugarExercises/bin/Debug/net5.0/SyntaxSugarExercises.deps.json
+/Users/JonathanGilmer/Desktop/Repos/SyntaxSugarExercises/SyntaxSugarExercises/bin/Debug/net5.0/SyntaxSugarExercises.runtimeconfig.json
+/Users/JonathanGilmer/Desktop/Repos/SyntaxSugarExercises/SyntaxSugarExercises/bin/Debug/net5.0/SyntaxSugarExercises.runtimeconfig.dev.json
+/Users/JonathanGilmer/Desktop/Repos/SyntaxSugarExercises/SyntaxSugarExercises/bin/Debug/net5.0/SyntaxSugarExercises.dll
+/Users/JonathanGilmer/Desktop/Repos/SyntaxSugarExercises/SyntaxSugarExercises/bin/Debug/net5.0/ref/SyntaxSugarExercises.dll
+/Users/JonathanGilmer/Desktop/Repos/SyntaxSugarExercises/SyntaxSugarExercises/bin/Debug/net5.0/SyntaxSugarExercises.pdb
+/Users/JonathanGilmer/Desktop/Repos/SyntaxSugarExercises/SyntaxSugarExercises/obj/Debug/net5.0/SyntaxSugarExercises.csproj.AssemblyReference.cache
+/Users/JonathanGilmer/Desktop/Repos/SyntaxSugarExercises/SyntaxSugarExercises/obj/Debug/net5.0/SyntaxSugarExercises.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JonathanGilmer/Desktop/Repos/SyntaxSugarExercises/SyntaxSugarExercises/obj/Debug/net5.0/SyntaxSugarExercises.AssemblyInfoInputs.cache
+/Users/JonathanGilmer/Desktop/Repos/SyntaxSugarExercises/SyntaxSugarExercises/obj/Debug/net5.0/SyntaxSugarExercises.AssemblyInfo.cs
+/Users/JonathanGilmer/Desktop/Repos/SyntaxSugarExercises/SyntaxSugarExercises/obj/Debug/net5.0/SyntaxSugarExercises.csproj.CoreCompileInputs.cache
+/Users/JonathanGilmer/Desktop/Repos/SyntaxSugarExercises/SyntaxSugarExercises/obj/Debug/net5.0/SyntaxSugarExercises.dll
+/Users/JonathanGilmer/Desktop/Repos/SyntaxSugarExercises/SyntaxSugarExercises/obj/Debug/net5.0/ref/SyntaxSugarExercises.dll
+/Users/JonathanGilmer/Desktop/Repos/SyntaxSugarExercises/SyntaxSugarExercises/obj/Debug/net5.0/SyntaxSugarExercises.pdb
+/Users/JonathanGilmer/Desktop/Repos/SyntaxSugarExercises/SyntaxSugarExercises/obj/Debug/net5.0/SyntaxSugarExercises.genruntimeconfig.cache
